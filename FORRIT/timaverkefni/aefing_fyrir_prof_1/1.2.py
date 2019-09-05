@@ -1,0 +1,6 @@
+my_str = input("Enter a number: ")
+print(my_str)
+my_int = int(my_str)
+print(my_int)
+my_float = float(my_int)
+print(my_float)
